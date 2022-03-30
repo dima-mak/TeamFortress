@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamFortress", "TeamFortress\TeamFortress.csproj", "{50180FC7-593A-4249-842A-8462FE10487D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50180FC7-593A-4249-842A-8462FE10487D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50180FC7-593A-4249-842A-8462FE10487D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50180FC7-593A-4249-842A-8462FE10487D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50180FC7-593A-4249-842A-8462FE10487D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C246257-733D-49E2-BF06-EAF003AF47C2}
+	EndGlobalSection
+EndGlobal
